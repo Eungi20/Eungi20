@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eungi20
-- 👀 I’m interested in math & physics.
+- 👀 I’m majored in physics.
 - 🌱 I’m currently learning about Superconducting Qubit.
 - 📫 How to reach me: eungi20@yonsei.ac.kr
 
