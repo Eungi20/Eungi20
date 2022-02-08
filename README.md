@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eungi20
 - 👀 I’m majored in physics.
-- 🌱 I’m currently learning about Superconducting Qubit.
+- 🌱 I’m currently learning about Superconducting Qubit and Quantum algorithms.
 - 📫 How to reach me: eungi20@yonsei.ac.kr
 
 <!---
